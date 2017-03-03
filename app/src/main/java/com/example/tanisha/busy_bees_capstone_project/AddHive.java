@@ -13,7 +13,7 @@ import android.widget.Toast;
 public class AddHive extends AppCompatActivity {
     Button addHive;
     EditText hiveName;
-
+//Add hive
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
